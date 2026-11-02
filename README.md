@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋 I'm Dhireena Banu
 
-<!--
-**dhireenabanu7-wq/dhireenabanu7-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year Computer Science (B.Tech) student at PW Institute of Innovation, Pune. I enjoy coding, problem-solving, and competing in hackathons.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+- Languages: Java, C++, Python, JavaScript, SQL, HTML/CSS
+- Tools: VS Code, Git, GitHub, TablePlus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm up to
+- 🌱 Currently learning advanced DSA and Object-Oriented Programming.
+- 🔭 Building web applications using Java (Jakarta Servlets, Thymeleaf).
+- ⚡ Actively participating in hackathons
+
+📫 Let's Connect!
+- LinkedIn:www.linkedin.com/in/dhireena-banu-dudekula-bbb156381
+- Email: dhireenabanu7@gmail.com
